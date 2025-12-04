@@ -3,6 +3,10 @@
 
 I am a computer science major at CSUF planning to graduate in 2029. I am an African American born in California having goals thriving in all computer languages.
 
+## Computer Science Projects
+
+My GitHub page: https://github.com/ArdentBucket-Fullerton
+
 ## Favorite CPSC 120L Labs
 
 Lab 1,
